@@ -28,7 +28,7 @@ def buid_web_page(hash)
     tittle = "<title>Desafio Api Nasa</title>\n"
     cierre_head ="</head>\n"
     body = "<body>\n"
-    h1= "<h1>Desafio Api Nasa</h1>"
+    h1= "<h1>Desafio Api Nasa</h1>\n"
     ul = "<ul style='display: flex;flex-wrap: wrap;justify-content: space-evenly;'>\n"
     li=""
     #itera el hash con las imagenes
