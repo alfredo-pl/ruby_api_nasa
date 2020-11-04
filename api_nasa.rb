@@ -35,7 +35,7 @@ def buid_web_page(hash)
         hash.each do |k , v|
             li += "<li style='list-style: none;'><img src='#{v}' style='width:300px;height:300px'></li>\n"
         end
-    ciere_ul ="</ul\n>"
+    ciere_ul ="</ul>\n"
     cierre_body ="</body>\n"
     cierre_html="</html>"
 
